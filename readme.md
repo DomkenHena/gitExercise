@@ -1,3 +1,3 @@
 # This is an exercise repository
 
-Here, we can test git.
+I do a conflict on the readme
